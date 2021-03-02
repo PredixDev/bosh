@@ -46,7 +46,7 @@ Head over to the `Releases` tab to get the tarballs for:
 
  - sudo
   
-  Remember to add a `sleep 5` if colocated with `os-conf` pre-start script with any sudo commands in them
+   Remember to add a `sleep 5` if colocated with `os-conf` pre-start script with any sudo commands in them
 
    ```
    releases:

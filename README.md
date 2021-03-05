@@ -8,10 +8,10 @@ Head over to the `Releases` tab to get the tarballs for:
 
    ```
    releases:
-    - name: kms-plugin
-      sha1: ca73d883f65508cb159cfe79734a10ac48b8aa28
-      url: https://github.com/PredixDev/bosh/releases/download/kms-plugin-1.0.0/kms-plugin-1.0.0.tgz
-      version: 1.0.0
+   - name: kms-plugin
+     sha1: ca73d883f65508cb159cfe79734a10ac48b8aa28
+     url: https://github.com/PredixDev/bosh/releases/download/kms-plugin-1.0.0/kms-plugin-1.0.0.tgz
+     version: 1.0.0
    ```
   
  - wazuh

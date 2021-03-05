@@ -11,24 +11,35 @@ Head over to the `Releases` tab to get the tarballs for:
     - name: kms-plugin
       sha1: ca73d883f65508cb159cfe79734a10ac48b8aa28
       url: https://github.com/PredixDev/bosh/releases/download/kms-plugin-1.0.0/kms-plugin-1.0.0.tgz
+      version: 1.0.0
    ```
   
  - wazuh
 
    ```
    releases:
-    - name: wazuh
-      sha1: c1072279cd2ecbc2ea878d04e8e41d4c383af0b9
-      url: https://github.com/PredixDev/bosh/releases/download/wazuh-3.11.4/wazuh-3.11.4.tgz
+   - name: wazuh
+     sha1: c1072279cd2ecbc2ea878d04e8e41d4c383af0b9
+     url: https://github.com/PredixDev/bosh/releases/download/wazuh-3.11.4/wazuh-3.11.4.tgz
+     version: 3.11.4
+   ```
+   
+   ```
+   releases:
+   - name: wazuh
+     sha1: 160230b47a0cbf8eed2bdde6a07618bce34401dd
+     url: https://github.com/PredixDev/bosh/releases/download/wazuh-3.2.1.3/wazuh-3.2.1.3.tgz
+     version: 3.2.1.3
    ```
 
  - os-conf
 
    ```
    releases:
-    - name: os-conf
-      sha1: 039320faf59dd320ebfb3046225882a307215648
-      url: https://github.com/PredixDev/bosh/releases/download/os-conf-19/os-conf-19+dev.2.tgz 
+   - name: os-conf
+     sha1: 039320faf59dd320ebfb3046225882a307215648
+     url: https://github.com/PredixDev/bosh/releases/download/os-conf-19/os-conf-19+dev.2.tgz 
+     version: 19+dev.2
    ```
 
 
@@ -51,7 +62,7 @@ Head over to the `Releases` tab to get the tarballs for:
    ```
    releases:
     - name: sudo
-      version: latest
+      version: '1'
       sha1: 41b25be8619b98fce56feca0294381f31867f334
       url: https://github.com/PredixDev/bosh/releases/download/sudo-boshrelease-1/sudo-boshrelease.tar.gz 
    ```

@@ -61,10 +61,19 @@ Head over to the `Releases` tab to get the tarballs for:
 
    ```
    releases:
-    - name: sudo
-      version: '1'
-      sha1: 41b25be8619b98fce56feca0294381f31867f334
-      url: https://github.com/PredixDev/bosh/releases/download/sudo-boshrelease-1/sudo-boshrelease.tar.gz 
+   - name: sudo
+     version: '1'
+     sha1: 41b25be8619b98fce56feca0294381f31867f334
+     url: https://github.com/PredixDev/bosh/releases/download/sudo-boshrelease-1/sudo-boshrelease.tar.gz 
    ```
+
+   ```
+   releases:
+   - name: sudo
+     version: '2'
+     sha1: 203219d9b53f90a9e6057d470428190c400484f5
+     url: https://github.com/PredixDev/bosh/releases/download/v2/sudo-boshrelease.2.tar.gz
+   ```
+
 
 > PaaS Team Rocks!

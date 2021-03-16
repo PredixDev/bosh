@@ -70,9 +70,9 @@ Head over to the `Releases` tab to get the tarballs for:
    ```
    releases:
    - name: sudo
-     version: '3'
-     sha1: 7abe8a621538fbd20ba1b3e3a4cd7263a17ca8c9
-     url: https://github.com/PredixDev/bosh/releases/download/v3/sudo-boshrelease.3.tar.gz
+     version: '4'
+     sha1: 48bb9657b81adb313a44917b73350cf08af06a8c
+     url: https://github.com/PredixDev/bosh/releases/download/v4/sudo-boshrelease.4.tar.gz
    ```
 
 

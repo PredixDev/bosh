@@ -21,7 +21,7 @@ Head over to the `Releases` tab to get the tarballs for:
    - name: wazuh
      sha1: c1072279cd2ecbc2ea878d04e8e41d4c383af0b9
      url: https://github.com/PredixDev/bosh/releases/download/wazuh-3.11.4/wazuh-3.11.4.tgz
-     version: 3.11.4
+     version: 3.11.4.1
    ```
    
    ```
